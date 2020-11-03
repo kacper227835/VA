@@ -7,3 +7,6 @@ D:\$Recycle.Bin
 E:\Documents and Settings
 E:\System Volume Information
 E:\$Recycle.Bin
+C:\$SysReset
+E:\$SysReset
+D:\$SysReset
