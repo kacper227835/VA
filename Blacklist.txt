@@ -13,4 +13,9 @@ D:\$SysReset
 C:\MSOCache
 D:\MSOCache
 E:\MSOCache
-F:\MSOCache
+C:\msdownld.tmp
+D:\msdownld.tmp
+E:\msdownld.tmp
+C:\OneDriveTemp
+D:\OneDriveTemp
+E:\OneDriveTemp
