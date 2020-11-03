@@ -1,21 +1,33 @@
 C:\Documents and Settings
 C:\System Volume Information
 C:\$Recycle.Bin
-D:\Documents and Settings
-D:\System Volume Information
-D:\$Recycle.Bin
-E:\Documents and Settings
-E:\System Volume Information
-E:\$Recycle.Bin
-C:\$SysReset
-E:\$SysReset
-D:\$SysReset
 C:\MSOCache
-D:\MSOCache
-E:\MSOCache
 C:\msdownld.tmp
-D:\msdownld.tmp
-E:\msdownld.tmp
 C:\OneDriveTemp
+C:\$SysReset
+
+
 D:\OneDriveTemp
+D:\msdownld.tmp
+D:\MSOCache
+D:\System Volume Informationt
+D:\$SysReset
+D:\$Recycle.Bin
+D:\Documents and Settings
+
+
 E:\OneDriveTemp
+E:\msdownld.tmp
+E:\MSOCache
+E:\$SysReset
+E:\$Recycle.Bin
+E:\System Volume Information
+E:\Documents and Settings
+
+F:\OneDriveTemp
+F:\msdownld.tmp
+F:\Documents and Settings
+F:\MSOCache
+F:\$SysReset
+F:\System Volume Information
+F:\OneDriveTemp
