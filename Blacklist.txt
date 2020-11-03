@@ -13,3 +13,4 @@ D:\$SysReset
 C:\MSOCache
 D:\MSOCache
 E:\MSOCache
+F:\MSOCache
