@@ -10,3 +10,6 @@ E:\$Recycle.Bin
 C:\$SysReset
 E:\$SysReset
 D:\$SysReset
+C:\MSOCache
+D:\MSOCache
+E:\MSOCache
