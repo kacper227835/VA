@@ -5,7 +5,9 @@ C:\MSOCache
 C:\msdownld.tmp
 C:\OneDriveTemp
 C:\$SysReset
+C:\PerfLogs
 D:\OneDriveTemp
+D:\PerfLogs
 D:\msdownld.tmp
 D:\MSOCache
 D:\System Volume Informationt
@@ -15,6 +17,7 @@ D:\Documents and Settings
 E:\OneDriveTemp
 E:\msdownld.tmp
 E:\MSOCache
+E:\PerfLogs
 E:\$SysReset
 E:\$Recycle.Bin
 E:\System Volume Information
@@ -23,6 +26,7 @@ F:\OneDriveTemp
 F:\msdownld.tmp
 F:\Documents and Settings
 F:\MSOCache
+F:\PerfLogs
 F:\$SysReset
 F:\System Volume Information
 F:\OneDriveTemp
